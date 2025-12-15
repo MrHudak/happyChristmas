@@ -289,20 +289,20 @@ mainTl
 mainTl.add(starTl, 0)
 gsap.globalTimeline.timeScale(1.5);    //  圣诞树开始绘画时小光点动画的绘画速率，越大越快
 
-setTimeout( function(){
-  var element = document.getElementById("header");
-  element.innerHTML = "阴雨作为遗迹, 圣诞快乐!";
+// setTimeout( function(){
+//   var element = document.getElementById("header");
+//   element.innerHTML = "阴雨作为遗迹, 圣诞快乐!";
  
    
-}, 7 * 1000 );//延迟5000毫米
+// }, 7 * 1000 );//延迟5000毫米
 
-setTimeout( function(){
+// setTimeout( function(){
 
-   var element = document.getElementById("p2");
-element.innerHTML = "祝你以后天天开心，排位连胜！";
-  var element = document.getElementById("p1");
-element.innerHTML = " <br />    Yours 老被骗奥菲的记者";
+//    var element = document.getElementById("p2");
+// element.innerHTML = "祝你以后天天开心，排位连胜！";
+//   var element = document.getElementById("p1");
+// element.innerHTML = " <br />    Yours 老被骗奥菲的记者";
      
    
-}, 10 * 1000 );//延迟5000毫米
+// }, 10 * 1000 );//延迟5000毫米
 
