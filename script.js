@@ -291,7 +291,7 @@ gsap.globalTimeline.timeScale(1.5);    //  圣诞树开始绘画时小光点动�
 
 setTimeout( function(){
   var element = document.getElementById("header");
-  element.innerHTML = "特别子, 圣诞快乐!";
+  element.innerHTML = "阴雨作为遗迹, 圣诞快乐!";
  
    
 }, 7 * 1000 );//延迟5000毫米
@@ -299,9 +299,9 @@ setTimeout( function(){
 setTimeout( function(){
 
    var element = document.getElementById("p2");
-element.innerHTML = "酌一口美酒，心放宽;听一段音乐，心悠闲;赏一番雪景，心坦然;读一封短信，心温暖;传一传祝愿，心里甜。祝君快乐在圣诞，开心快乐永不变。";
+element.innerHTML = "祝你以后天天开心，排位连胜！";
   var element = document.getElementById("p1");
-element.innerHTML = " <br />    Yours 随便";
+element.innerHTML = " <br />    Yours 记者";
      
    
 }, 10 * 1000 );//延迟5000毫米
